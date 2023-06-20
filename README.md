@@ -28,7 +28,7 @@ python main.py
 * `endway_token` - ваш токен EndWay, посмотрите в любом POST запросе под ключом `_xfToken`
 * `cybhack_token` - ваш токен Cybhack, посмотрите в любом POST запросе под ключом `_xfToken`
 * `cybhack_cookie` - ваши Cookie файлы Cybhack
-* `endway_themes` - список ID тем, которые нужно апать через пробел. (https://endway.su/threads/это и есть id темы/)
-* `cybhack_themes` - список ID тем, которые нужно апать через пробел. (https://cybhack.su/threads/это и есть id темы/)
-* `zelenka_themes` - список ID тем, которые нужно апать через пробел. (https://zelenka.guru/threads/это и есть id темы/)
+* `endway_themes` - список ID тем, которые нужно апать через пробел. (https://endway.su/threads/id/)
+* `cybhack_themes` - список ID тем, которые нужно апать через пробел. (https://cybhack.su/threads/id/)
+* `zelenka_themes` - список ID тем, которые нужно апать через пробел. (https://zelenka.guru/threads/id/)
 
