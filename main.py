@@ -55,7 +55,6 @@ async def main_loop():
                     "_xfRequestUri": "https://endway.su/threads/" + theme
                 }
             )
-            # todo remake
             data = await response.json()
             message = f"""✅ Ап темы https://endway.su/threads/{theme}
 
