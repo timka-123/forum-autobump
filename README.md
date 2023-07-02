@@ -32,3 +32,5 @@ python main.py
 * `cybhack_themes` - список ID тем, которые нужно апать через пробел. (https://cybhack.su/threads/id/)
 * `zelenka_themes` - список ID тем, которые нужно апать через пробел. (https://zelenka.guru/threads/id/)
 
+
+###### Сделано [timka123](https://t.me/t1wk4), 2023 год
